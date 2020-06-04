@@ -1,3 +1,4 @@
+//esta es una calculadora
 <?php
 $respuesta="";
 $num1="";
